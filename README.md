@@ -1,8 +1,6 @@
 # Abdelrahman Aboelnour
 
-I write bare-metal ARM Assembly and build distributed backends. The gap between them is where most of my thinking happens.
-
-First-year CE student at Cairo University — the problems I keep gravitating toward are the ones that make you care about both layers.
+Second-year Computer and Communication student at Cairo University —I keep gravitating toward the problems are the ones that make you care about both layers - Low Level Hardware and distributed backends-.
 
 ---
 
